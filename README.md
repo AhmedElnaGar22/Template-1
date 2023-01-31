@@ -1,1 +1,1 @@
-# Resposive Template With Html And Css Only
+# Responsive Template With Html And Css Only
